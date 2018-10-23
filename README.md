@@ -1,5 +1,7 @@
 # MovieDetailsMiniApp
 
+I changed this.
+
 Electrode Native - Movie Details MiniApp (Getting Started)
 
 Application that has a UI to display details of a given movie.
